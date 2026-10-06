@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /panel
+Disallow: /api/
+Disallow: /checkout/
+Disallow: /oauth/
+Disallow: /webhook/
+Disallow: /e/
